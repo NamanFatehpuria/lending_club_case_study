@@ -20,6 +20,23 @@ Pesented a PPT to illustrate the major parameter to consider while giving loans 
 * Bivariate Analysis  
 * Recommendations
 </br>
+### **Conclusions**
+* If the applicant home ownership is mortgage and loan amount is greater than 14K.
+* If the applicant employment duration is 10+ years and loan amount is greater than 14k.
+* Higher interest rate with around 14% rate, increasses the default posibility.
+* DTI ration of over 14, increasses the default posibility.
+* Lower annual income of about 60K, increasses the default posibility.
+* Grade G loan, with annual income of about 74K are more likely to default.
+* Owners on Rent with about 50K annual income, and 14% interest are more likely to default.
+* When the loan is verified and loan amount is over 16K and interest rate is around 15%.
+</br>
+### **Technologies/Libraries used** 
+* Pandas 
+* Numpy 
+* Matplotlib 
+* Seaborn 
+* Warnings 
+* Datetime 
 
 ## **Internal Files** 
 * [Case study analysis (.pynb) file](Naman_Fatehpuria.ipynb)
