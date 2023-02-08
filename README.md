@@ -43,5 +43,5 @@ Presented a PPT to illustrate the major parameter to consider while giving loans
 </br>
 
 ## **Contributors:**
-* [Naman Fetehpuria](https://github.com/NamanFatehpuria/)
+* [Naman Fatehpuria](https://github.com/NamanFatehpuria/)
 * [Sudha Kumari](https://github.com/sudha1117/)
